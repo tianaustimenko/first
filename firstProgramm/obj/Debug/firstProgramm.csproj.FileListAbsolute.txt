@@ -1,0 +1,8 @@
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\firstProgramm.csproj.AssemblyReference.cache
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\MainWindow.g.cs
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\View\Windows\AutorizationWindow.g.cs
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\App.g.cs
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\firstProgramm_MarkupCompile.cache
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\firstProgramm_MarkupCompile.lref
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\View\Pages\UsersPage.g.cs
+D:\ИС 31\Устименко Ермоленко\firstProgramm\firstProgramm\obj\Debug\View\Windows\AdminWindow.g.cs
